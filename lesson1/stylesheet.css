@@ -1,0 +1,46 @@
+body{
+    font-family: serif;
+}
+li{
+    list-style: none;
+    
+}
+.header-list li{
+    list-style: none;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 33px 20px;
+}
+.header{
+    background-color: rgb(102, 152, 238);
+    color: rgb(239, 243, 231);
+    height: 90px;
+}
+.header-logo{
+    font-size: 36px;
+    color: rgb(232, 232, 241);
+    float: left;
+    padding: 20px 40px;
+}
+
+.main{
+    background-color: rgb(151, 245, 245);
+    height: 600px;
+}
+.footer{
+    background-color: darkcyan;
+    height: 120px;
+    color: #fff;
+    padding: 40px;
+}
+.footer-logo{
+    font-size: 32px;
+    float: left;
+}
+.footer-list{
+    float: right;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
